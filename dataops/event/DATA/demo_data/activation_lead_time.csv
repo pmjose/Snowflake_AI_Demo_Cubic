@@ -1,0 +1,9 @@
+product_category,avg_activation_days,p90_activation_days,notes
+Connectivity Core,3,6,Demo values for Cubic³ activation SLAs
+Infotainment & StreamLocal³,4,7,Demo values for Cubic³ activation SLAs
+Driver Experience & DriverConnect³,4,7,Demo values for Cubic³ activation SLAs
+Payments & FleetWallet³,5,9,Demo values for Cubic³ activation SLAs
+Analytics & Explore³,3,6,Demo values for Cubic³ activation SLAs
+Partner Enablement & APIs,2,5,Demo values for Cubic³ activation SLAs
+OTA & Telemetry,3,6,Demo values for Cubic³ activation SLAs
+Compliance & Security,5,9,Demo values for Cubic³ activation SLAs

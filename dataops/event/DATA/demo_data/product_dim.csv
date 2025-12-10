@@ -1,0 +1,19 @@
+product_key,product_name,category_key,category_name,vertical
+1,Global eSIM Connectivity Plan 5GB,1,Connectivity Core,Connectivity
+2,Global eSIM Connectivity Plan 15GB,1,Connectivity Core,Connectivity
+3,Premium QoS Roaming Pack,1,Connectivity Core,Connectivity
+4,Edge Steering Policy (Low Latency),1,Connectivity Core,Connectivity
+5,StreamLocal³ Starter,2,Infotainment & StreamLocal³,Experience
+6,StreamLocal³ Premium,2,Infotainment & StreamLocal³,Experience
+7,DriverConnect³ Notifications,3,Driver Experience & DriverConnect³,Experience
+8,DriverConnect³ Insights,3,Driver Experience & DriverConnect³,Experience
+9,FleetWallet³ Pay Basic,4,Payments & FleetWallet³,Payments
+10,FleetWallet³ Pay Premium,4,Payments & FleetWallet³,Payments
+11,Explore³ Usage Analytics,5,Analytics & Explore³,Analytics
+12,Explore³ Anomaly Detection,5,Analytics & Explore³,Analytics
+13,Partner API Access,6,Partner Enablement & APIs,Partner
+14,Partner SLA Monitoring,6,Partner Enablement & APIs,Partner
+15,OTA Reliability Booster,7,OTA & Telemetry,Telemetry
+16,Telemetry Storage 12mo,7,OTA & Telemetry,Telemetry
+17,Compliance Pack (VoLTE/VoNR),8,Compliance & Security,Security
+18,Security Monitoring Add-on,8,Compliance & Security,Security

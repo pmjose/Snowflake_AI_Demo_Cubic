@@ -1,0 +1,61 @@
+account_id,account_name,customer_key,industry,vertical,billing_street,billing_city,billing_state,billing_postal_code,account_type,annual_revenue,employees,created_date
+ACC000001,Cubic3 Program 1,46,MNO Partner,Connected Vehicle,990 Connected Ave,Madrid,,10001,Prospect,151115230.28,2615,2022-01-01
+ACC000002,Cubic3 Program 2,97,Fleet,Connected Vehicle,592 Connected Ave,Berlin,,10002,Customer,230181670.27,2908,2022-01-01
+ACC000003,Cubic3 Program 3,86,OEM,Connected Vehicle,605 Connected Ave,Dublin,,10003,Partner,124566755.87,68,2022-01-01
+ACC000004,Cubic3 Program 4,37,Payments,Connected Vehicle,675 Connected Ave,Riyadh,,10004,Prospect,205513544.01,4274,2022-01-01
+ACC000005,Cubic3 Program 5,26,MNO Partner,Connected Vehicle,985 Connected Ave,Seattle,,10005,Prospect,286886252.51,2909,2022-01-01
+ACC000006,Cubic3 Program 6,61,Mobility Platform,Connected Vehicle,621 Connected Ave,London,,10006,Partner,232859132.01,3844,2022-01-01
+ACC000007,Cubic3 Program 7,74,Mobility Platform,Connected Vehicle,8 Connected Ave,Buenos Aires,,10007,Customer,157650694.07,4196,2022-01-01
+ACC000008,Cubic3 Program 8,13,MNO Partner,Connected Vehicle,172 Connected Ave,Tokyo,,10008,Prospect,297291478.14,4319,2022-01-01
+ACC000009,Cubic3 Program 9,26,Fleet,Connected Vehicle,687 Connected Ave,London,,10009,Prospect,376539231.93,2731,2022-01-01
+ACC000010,Cubic3 Program 10,113,OEM,Connected Vehicle,765 Connected Ave,Buenos Aires,,10010,Customer,51695610.44,1194,2022-01-01
+ACC000011,Cubic3 Program 11,21,Payments,Connected Vehicle,818 Connected Ave,Sydney,,10011,Partner,61418775.46,2454,2022-01-01
+ACC000012,Cubic3 Program 12,96,MNO Partner,Connected Vehicle,108 Connected Ave,Berlin,,10012,Prospect,318683098.55,3090,2022-01-01
+ACC000013,Cubic3 Program 13,65,Payments,Connected Vehicle,150 Connected Ave,Seoul,,10013,Customer,128086827.77,4909,2022-01-01
+ACC000014,Cubic3 Program 14,68,MNO Partner,Connected Vehicle,578 Connected Ave,Dubai,,10014,Customer,78389523.97,714,2022-01-01
+ACC000015,Cubic3 Program 15,120,Payments,Connected Vehicle,51 Connected Ave,Paris,,10015,Prospect,66493568.53,4993,2022-01-01
+ACC000016,Cubic3 Program 16,63,OEM,Connected Vehicle,556 Connected Ave,Dubai,,10016,Partner,386342083.83,2287,2022-01-01
+ACC000017,Cubic3 Program 17,87,Payments,Connected Vehicle,964 Connected Ave,Mexico City,,10017,Prospect,194736066.84,4299,2022-01-01
+ACC000018,Cubic3 Program 18,115,Fleet,Connected Vehicle,172 Connected Ave,Riyadh,,10018,Customer,191592555.5,564,2022-01-01
+ACC000019,Cubic3 Program 19,9,Payments,Connected Vehicle,436 Connected Ave,Austin,,10019,Prospect,172626968.02,1854,2022-01-01
+ACC000020,Cubic3 Program 20,81,Mobility Platform,Connected Vehicle,558 Connected Ave,Singapore,,10020,Customer,327929438.64,1602,2022-01-01
+ACC000021,Cubic3 Program 21,8,OEM,Connected Vehicle,389 Connected Ave,Seattle,,10021,Customer,56204599.75,3760,2022-01-01
+ACC000022,Cubic3 Program 22,120,Payments,Connected Vehicle,838 Connected Ave,Madrid,,10022,Prospect,391079033.24,4180,2022-01-01
+ACC000023,Cubic3 Program 23,105,Mobility Platform,Connected Vehicle,530 Connected Ave,Austin,,10023,Partner,292603147.04,4867,2022-01-01
+ACC000024,Cubic3 Program 24,42,Mobility Platform,Connected Vehicle,135 Connected Ave,Rome,,10024,Partner,331009623.98,3175,2022-01-01
+ACC000025,Cubic3 Program 25,64,Fleet,Connected Vehicle,389 Connected Ave,Dubai,,10025,Prospect,377246305.01,3001,2022-01-01
+ACC000026,Cubic3 Program 26,34,MNO Partner,Connected Vehicle,139 Connected Ave,Singapore,,10026,Prospect,44960616.19,4385,2022-01-01
+ACC000027,Cubic3 Program 27,105,Mobility Platform,Connected Vehicle,346 Connected Ave,Melbourne,,10027,Partner,255799481.0,3892,2022-01-01
+ACC000028,Cubic3 Program 28,44,Mobility Platform,Connected Vehicle,401 Connected Ave,Madrid,,10028,Partner,169606757.21,3034,2022-01-01
+ACC000029,Cubic3 Program 29,74,OEM,Connected Vehicle,952 Connected Ave,Melbourne,,10029,Partner,19114907.12,3643,2022-01-01
+ACC000030,Cubic3 Program 30,92,Payments,Connected Vehicle,121 Connected Ave,Warsaw,,10030,Prospect,128829598.11,1351,2022-01-01
+ACC000031,Cubic3 Program 31,64,OEM,Connected Vehicle,171 Connected Ave,Paris,,10031,Prospect,277389824.19,1982,2022-01-01
+ACC000032,Cubic3 Program 32,46,OEM,Connected Vehicle,786 Connected Ave,Warsaw,,10032,Customer,78817034.04,3568,2022-01-01
+ACC000033,Cubic3 Program 33,17,Payments,Connected Vehicle,339 Connected Ave,Sydney,,10033,Partner,171129193.37,4491,2022-01-01
+ACC000034,Cubic3 Program 34,75,MNO Partner,Connected Vehicle,34 Connected Ave,Seattle,,10034,Partner,5355100.67,1990,2022-01-01
+ACC000035,Cubic3 Program 35,57,Mobility Platform,Connected Vehicle,929 Connected Ave,Paris,,10035,Customer,391564041.25,2997,2022-01-01
+ACC000036,Cubic3 Program 36,43,MNO Partner,Connected Vehicle,91 Connected Ave,Madrid,,10036,Partner,366784435.84,3222,2022-01-01
+ACC000037,Cubic3 Program 37,93,MNO Partner,Connected Vehicle,703 Connected Ave,Toronto,,10037,Prospect,247039476.83,4898,2022-01-01
+ACC000038,Cubic3 Program 38,14,MNO Partner,Connected Vehicle,493 Connected Ave,Toronto,,10038,Customer,91810968.75,2776,2022-01-01
+ACC000039,Cubic3 Program 39,28,Payments,Connected Vehicle,967 Connected Ave,Mexico City,,10039,Partner,254508825.22,2322,2022-01-01
+ACC000040,Cubic3 Program 40,10,Mobility Platform,Connected Vehicle,861 Connected Ave,Melbourne,,10040,Customer,319358298.91,2677,2022-01-01
+ACC000041,Cubic3 Program 41,120,Payments,Connected Vehicle,313 Connected Ave,Dublin,,10041,Prospect,313554221.42,2588,2022-01-01
+ACC000042,Cubic3 Program 42,94,Payments,Connected Vehicle,713 Connected Ave,NYC,,10042,Customer,49707458.03,4418,2022-01-01
+ACC000043,Cubic3 Program 43,97,MNO Partner,Connected Vehicle,939 Connected Ave,Madrid,,10043,Prospect,145826313.56,3212,2022-01-01
+ACC000044,Cubic3 Program 44,109,MNO Partner,Connected Vehicle,687 Connected Ave,Warsaw,,10044,Customer,305741486.1,823,2022-01-01
+ACC000045,Cubic3 Program 45,61,Fleet,Connected Vehicle,338 Connected Ave,Sydney,,10045,Partner,290381655.34,75,2022-01-01
+ACC000046,Cubic3 Program 46,105,OEM,Connected Vehicle,640 Connected Ave,Seoul,,10046,Partner,339700251.89,1198,2022-01-01
+ACC000047,Cubic3 Program 47,95,Payments,Connected Vehicle,855 Connected Ave,Sydney,,10047,Partner,374469299.31,2054,2022-01-01
+ACC000048,Cubic3 Program 48,112,Fleet,Connected Vehicle,141 Connected Ave,Johannesburg,,10048,Prospect,256158038.44,3088,2022-01-01
+ACC000049,Cubic3 Program 49,14,MNO Partner,Connected Vehicle,719 Connected Ave,Dublin,,10049,Customer,160206941.7,4106,2022-01-01
+ACC000050,Cubic3 Program 50,116,Payments,Connected Vehicle,245 Connected Ave,Singapore,,10050,Partner,84052602.06,2513,2022-01-01
+ACC000051,Cubic3 Program 51,119,MNO Partner,Connected Vehicle,609 Connected Ave,Austin,,10051,Partner,216191220.99,3368,2022-01-01
+ACC000052,Cubic3 Program 52,33,Fleet,Connected Vehicle,590 Connected Ave,Paris,,10052,Customer,368457810.58,4995,2022-01-01
+ACC000053,Cubic3 Program 53,72,Payments,Connected Vehicle,251 Connected Ave,Sydney,,10053,Partner,61630531.77,4095,2022-01-01
+ACC000054,Cubic3 Program 54,57,MNO Partner,Connected Vehicle,467 Connected Ave,Seattle,,10054,Prospect,41487200.74,3152,2022-01-01
+ACC000055,Cubic3 Program 55,41,MNO Partner,Connected Vehicle,78 Connected Ave,Madrid,,10055,Partner,183301531.87,4991,2022-01-01
+ACC000056,Cubic3 Program 56,14,Mobility Platform,Connected Vehicle,124 Connected Ave,Melbourne,,10056,Customer,10893054.88,3053,2022-01-01
+ACC000057,Cubic3 Program 57,16,Payments,Connected Vehicle,208 Connected Ave,Tokyo,,10057,Partner,59137715.21,646,2022-01-01
+ACC000058,Cubic3 Program 58,101,Mobility Platform,Connected Vehicle,619 Connected Ave,Seattle,,10058,Prospect,132640912.71,390,2022-01-01
+ACC000059,Cubic3 Program 59,20,OEM,Connected Vehicle,64 Connected Ave,Mexico City,,10059,Partner,274693568.32,276,2022-01-01
+ACC000060,Cubic3 Program 60,102,Payments,Connected Vehicle,951 Connected Ave,Riyadh,,10060,Partner,152137778.15,4197,2022-01-01

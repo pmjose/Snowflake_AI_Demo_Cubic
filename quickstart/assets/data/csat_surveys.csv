@@ -1,0 +1,26 @@
+survey_id,customer_id,region,survey_date,csat_score,comment,channel
+1,CUST_003513,North America,2025-01-10,3,Great connectivity,Email
+2,CUST_006758,India & Middle East,2025-01-15,2,StreamLocal³ buffers occasionally,Call
+3,CUST_005481,North America,2025-01-04,4,Great connectivity,Chat
+4,CUST_002391,Oceania,2025-01-14,2,Great connectivity,Call
+5,CUST_003062,Oceania,2025-01-15,3,Latency spikes in evenings,Call
+6,CUST_007023,Europe & MENA,2025-01-07,2,StreamLocal³ buffers occasionally,Email
+7,CUST_005791,India & Middle East,2025-01-06,4,DriverConnect³ alerts helpful,Email
+8,CUST_006205,Latin America,2025-01-12,4,Latency spikes in evenings,Chat
+9,CUST_005330,India & Middle East,2025-01-07,5,DriverConnect³ alerts helpful,Chat
+10,CUST_008385,Oceania,2025-01-07,4,StreamLocal³ buffers occasionally,Call
+11,CUST_006382,Europe & MENA,2025-01-12,4,Payment failed once,Social
+12,CUST_002398,North America,2025-01-04,4,StreamLocal³ buffers occasionally,Social
+13,CUST_006627,North America,2025-01-10,4,Great connectivity,Social
+14,CUST_003423,Asia-Pacific,2025-01-13,1,DriverConnect³ alerts helpful,Call
+15,CUST_003114,India & Middle East,2025-01-04,3,Latency spikes in evenings,Email
+16,CUST_003769,Oceania,2025-01-11,3,Payment failed once,Email
+17,CUST_002578,Europe & MENA,2025-01-09,5,DriverConnect³ alerts helpful,Social
+18,CUST_008840,North America,2025-01-03,1,Payment failed once,Chat
+19,CUST_000254,North America,2025-01-10,3,Latency spikes in evenings,Social
+20,CUST_009777,Asia-Pacific,2025-01-12,4,Payment failed once,Chat
+21,CUST_001464,Europe & MENA,2025-01-15,5,Great connectivity,Call
+22,CUST_001171,Oceania,2025-01-04,3,Latency spikes in evenings,Email
+23,CUST_003116,India & Middle East,2025-01-06,2,Latency spikes in evenings,Chat
+24,CUST_008374,Asia-Pacific,2025-01-03,2,Latency spikes in evenings,Email
+25,CUST_006603,Oceania,2025-01-03,5,DriverConnect³ alerts helpful,Call

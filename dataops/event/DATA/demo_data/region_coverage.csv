@@ -1,0 +1,10 @@
+region_key,region_name,coverage_sites,utilization_pct,avg_activation_days,data_as_of
+400,Europe & MENA,331,0.57,6,Nov 2025
+401,North America,437,0.71,8,Nov 2025
+402,Latin America,234,0.62,6,Nov 2025
+403,Asia-Pacific,317,0.71,13,Nov 2025
+404,India & Middle East,930,0.8,14,Nov 2025
+405,Oceania,661,0.7,7,Nov 2025
+406,Maritime Corridors,800,0.76,8,Nov 2025
+407,Aviation Corridors,755,0.71,8,Nov 2025
+408,Global Mobility,236,0.79,10,Nov 2025

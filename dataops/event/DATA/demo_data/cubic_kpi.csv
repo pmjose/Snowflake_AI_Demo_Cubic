@@ -1,0 +1,13 @@
+metric,value,as_of_note,category
+Connected vehicles live,17000000,Public: Cubic³ press Nov 2025,Scale
+Monthly vehicle adds,450000,Public: Cubic³ press Nov 2025,Scale
+Countries covered,190,Public: Cubic³ website/press,Coverage
+MNO partners,550,Public: Cubic³ website/press,Coverage
+SoftBank investment EUR,473000000,Public: SoftBank stake Dec 2023 (51%),Capital
+SoftBank ownership pct,51,Public: SoftBank stake Dec 2023 (51%),Capital
+Avg attach success,0.965,Synthetic demo placeholder,Quality
+P95 roaming latency (ms),128,Synthetic demo placeholder,Quality
+StreamLocal³ active OEM programs,22,Synthetic demo placeholder,Experience
+DriverConnect³ DAU (M),6.2,Synthetic demo placeholder,Experience
+FleetWallet³ txn / day,520000,Synthetic demo placeholder,Payments
+Explore³ anomalies flagged / wk,3200,Synthetic demo placeholder,Analytics
