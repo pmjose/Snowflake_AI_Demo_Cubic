@@ -18,3 +18,5 @@ All other CSVs are synthetic placeholders created for the Cubic³-themed demo. T
 - Treat all synthetic tables as demo-only. Do not use for real reporting or decisions.
 - If you have real Cubic³ data, replace the corresponding CSVs and rerun the pipeline.
 - Keep `cubic_kpi.csv` as the only table with public figures; remaining rows in that file are marked "Synthetic demo placeholder".
+
+- Placeholder PDFs added (Cubic³-branded) in quickstart/assets/data/pdfs_to_upload and dataops/event/DATA/unstructured_docs/strategy. Replace with official Cubic³ PDFs for production.
