@@ -1,11 +1,13 @@
 campaign_key,campaign_name,objective
-1,Cubic3 Launch Wave 1,Payments Readiness
-2,Cubic3 Launch Wave 2,Analytics Upsell
-3,Cubic3 Launch Wave 3,OEM Launch
-4,Cubic3 Launch Wave 4,Infotainment Push
-5,Cubic3 Launch Wave 5,Analytics Upsell
-6,Cubic3 Launch Wave 6,Partner QoS
-7,Cubic3 Launch Wave 7,Analytics Upsell
-8,Cubic3 Launch Wave 8,Infotainment Push
-9,Cubic3 Launch Wave 9,Payments Readiness
-10,Cubic3 Launch Wave 10,Infotainment Push
+1,Bentley Launch/QoS Push,OEM Launch
+2,Volkswagen Launch/QoS Push,Analytics Upsell
+3,Cariad Launch/QoS Push,Partner QoS
+4,Audi Launch/QoS Push,Analytics Upsell
+5,Iveco Launch/QoS Push,OEM Launch
+6,Lamborghini Launch/QoS Push,OEM Launch
+7,Porsche Launch/QoS Push,Analytics Upsell
+8,Seat Launch/QoS Push,OEM Launch
+9,Skoda Launch/QoS Push,OEM Launch
+10,GM Launch/QoS Push,Infotainment Push
+11,CNH Launch/QoS Push,Partner QoS
+12,Honda Launch/QoS Push,Partner QoS
