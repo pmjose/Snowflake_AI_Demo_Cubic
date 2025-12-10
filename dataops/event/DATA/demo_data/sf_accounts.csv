@@ -59,3 +59,15 @@ ACC000057,Cubic3 Program 57,16,Payments,Connected Vehicle,208 Connected Ave,Toky
 ACC000058,Cubic3 Program 58,101,Mobility Platform,Connected Vehicle,619 Connected Ave,Seattle,,10058,Prospect,132640912.71,390,2022-01-01
 ACC000059,Cubic3 Program 59,20,OEM,Connected Vehicle,64 Connected Ave,Mexico City,,10059,Partner,274693568.32,276,2022-01-01
 ACC000060,Cubic3 Program 60,102,Payments,Connected Vehicle,951 Connected Ave,Riyadh,,10060,Partner,152137778.15,4197,2022-01-01
+ACC000061,Bentley Connected Vehicle,121,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000062,Volkswagen Connected Vehicle,122,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000063,Cariad Connected Vehicle,123,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000064,Audi Connected Vehicle,124,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000065,Iveco Connected Vehicle,125,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000066,Lamborghini Connected Vehicle,126,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000067,Porsche Connected Vehicle,127,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000068,Seat Connected Vehicle,128,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000069,Skoda Connected Vehicle,129,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000070,GM Connected Vehicle,130,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000071,CNH Connected Vehicle,131,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
+ACC000072,Honda Connected Vehicle,132,Automotive OEM,Connected Vehicle,1 OEM Drive,Global,,00000,Customer,500000000,5000,2022-01-01
